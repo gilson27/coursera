@@ -17,7 +17,11 @@ figure; % open a new figure window
 %       markers larger by using plot(..., 'rx', 'MarkerSize', 10);
 
 
+plot(x, y, 'rx', 'MarkerSize', 10);
+ylabel('Profit in $100,000s');
+xlabel('Population of City in 10,0000s');
 
+fprintf('Program paused. Press enter to continue.\n');
 
 
 % ============================================================
