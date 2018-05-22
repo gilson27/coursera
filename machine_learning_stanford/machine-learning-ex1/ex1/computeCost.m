@@ -13,8 +13,8 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
-
-
+msre = X*theta - y 
+J = (msre' * msre) /(2*m)
 
 
 % =========================================================================
