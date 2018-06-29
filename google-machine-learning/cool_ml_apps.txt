@@ -1,0 +1,2 @@
+1) Predict car prices from photo
+2) Dialogue flow - Interactive virtual agent with NLP/Speech recognition
