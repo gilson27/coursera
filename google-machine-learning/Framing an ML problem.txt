@@ -1,0 +1,42 @@
+Use Case 1: _____________
+If the use case was an ML problem....
+
+1) What is being predicted?
+
+2) What data is needed?
+
+Now imagine the ML problem is a question of software:
+
+3) What is the API for the problem during prediction?
+
+4) Who will use this service? How are they doing it today?
+
+Lastly, cast it in the framework of a data problem. What are some key actions to collect, analyze, predict, and react to the data/predictions (different input features might require different actions)
+
+5) What data are we analyzing?
+
+6) What data are we predicting?
+
+7) What data are we reacting to?
+
+Use Case 2: _____________
+If the use case was an ML problem....
+
+1) What is being predicted?
+
+2) What data is needed?
+
+Now imagine the ML problem is a question of software:
+
+3) What is the API for the problem during prediction?
+
+4) Who will use this service? How are they doing it today?
+
+Lastly, cast it in the framework of a data problem. What are some key actions to collect, analyze, predict, and react to the data/predictions (different input features might require different actions)
+
+5) What data are we analyzing?
+
+6) What data are we predicting?
+
+7) What data are we reacting to?
+
